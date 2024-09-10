@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**NagaSaiTejaswi-Gandu/NagaSaiTejaswi-Gandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NagaSaiTejaswi-Gandu/NagaSaiTejaswi-Gandu**
 
 Here are some ideas to get you started:
 
