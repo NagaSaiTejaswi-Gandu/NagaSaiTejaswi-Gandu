@@ -2,10 +2,10 @@
 
 Welcome to my GitHub! I’m a data-driven technologist passionate about uncovering insights and solving complex problems through Machine Learning, AI, and data analysis. Here’s a quick look at my journey and what I’m working on.
 
-🎓 Master of Science in Computer Science
-🎓 Bachelor of Science in Computer Science
-📫 E-mail : nagasaitejaswigandu@gmail.com
-💼 LinkedIn : https://www.linkedin.com/in/tejaswi-gandu
+🎓 Master of Science in Computer Science <br>
+🎓 Bachelor of Science in Computer Science <br>
+📫 E-mail : nagasaitejaswigandu@gmail.com <br>
+💼 LinkedIn : https://www.linkedin.com/in/tejaswi-gandu <br>
 
 ## 🚀 **Featured Projects**
 
