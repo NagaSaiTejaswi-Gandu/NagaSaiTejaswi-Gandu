@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m a data-driven technologist passionate about uncoveri
 - Designed an image captioning system that enhances accessibility for visually impaired users.
 - Focuses on generating detailed, contextually appropriate descriptions to improve usability.
 
-### 📌 [Skin Lesion Classificiation](https://github.com/NagaSaiTejaswi-Gandu/Skin Lesion Classificiation)
+### 📌 [Skin Lesion Classificiation](https://github.com/NagaSaiTejaswi-Gandu/Skin-Lesion-Classificiation)
 - This project develops a deep learning model to classify skin lesions using the HAM10000 dataset, which contains over 10,000 images from seven categories of skin lesions.
 - The model achieves good classification accuracy, with potential improvements through data augmentation and fine-tuning.
 - Grad-CAM visualizations help explain the model's decisions, making it useful for aiding medical diagnoses.
